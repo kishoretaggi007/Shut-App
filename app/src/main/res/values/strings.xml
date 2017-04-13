@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShutApp</string>
+    <string name="timer">Select The Extension Time</string>
+    <string name="block">Block</string>
+    <string name="tenhrs">10 hrs</string>
+    <string name="fifteenhrs">15 hrs</string>
+    <string name="twentyhrs">20 hrs</string>
+    <string name="thirtyhrs">30 hrs</string>
+    <string name="fortyhrs">40 hrs</string>
+    <string name="fortyfive">45 hrs</string>
+    <string name="action_about">About</string>
+
+</resources>
